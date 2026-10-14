@@ -1,0 +1,14 @@
+# 运行结果可由入口重建，不默认提交大型图件。
+outputs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+.env
+.env.*
