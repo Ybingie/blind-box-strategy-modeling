@@ -1,0 +1,41 @@
+{
+  "source_records": 134,
+  "usable_records": 125,
+  "unique_evidence_ids": 125,
+  "unique_listing_urls": 114,
+  "same_design_repeated_groups": 1,
+  "unresolved_date_ids": [
+    "MKT-126"
+  ],
+  "conservative_check_excluded_ids": [
+    "MKT-068",
+    "MKT-075",
+    "MKT-126"
+  ],
+  "conservative_check_records": 122,
+  "baseline_medians": [
+    60.0,
+    58.0,
+    60.0,
+    58.5,
+    37.75,
+    32.0,
+    20.33,
+    40.0
+  ],
+  "conservative_check_medians": [
+    60.0,
+    58.0,
+    57.5,
+    58.5,
+    37.75,
+    32.0,
+    20.33,
+    39.0
+  ],
+  "limitations": [
+    "Convenience sample of listings, not completed transactions.",
+    "Search terms and seller identities were not systematically recorded.",
+    "Recorded screenshot names do not verify archived screenshots."
+  ]
+}
